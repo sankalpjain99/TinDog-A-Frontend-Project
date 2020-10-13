@@ -18,6 +18,8 @@ h1{
     font-size: 4rem;
 }
 
+/* --------------------title--------------------  */
+
 /* Navigation Bar */
 
 .navbar{
@@ -35,9 +37,9 @@ h1{
 }
 
 .nav-link{
-        font-size: 1.2rem;
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 500;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
 }
 
 /* Download Buttons  */
@@ -52,4 +54,36 @@ h1{
     transform: rotate(25deg);
     width: 60%;
 }
+
+/* --------------------features--------------------  */
+
+#features{
+    text-align: center;
+    padding: 7%;
+}
+
+/* Headings  */
+.feature-head{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+/* images  */
+.feature-img{
+    color: #ef8172;
+    margin: 5% 0;
+}
+
+.feature-img:hover{
+    color: #ff4c68;
+}
+
+/* info  */
+.feature-info{
+    color: #8f8f8f;
+    font-size: 1.2rem;
+    padding: 0 19.75%;
+}
+
 
