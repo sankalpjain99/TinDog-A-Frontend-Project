@@ -118,7 +118,7 @@ p{
 /* Carousel  */
 
 .carousel-item{
-    padding: 7% 15%;
+    padding: 5% 15%;
 }
 
 /* ----------------------Press---------------  */
@@ -133,7 +133,7 @@ p{
 
 .press-logo{
     width: 15%;
-    margin: 10px 30px 30px;
+    margin: 0 30px 30px;
 }
 
 /* ----------------------Pricing---------------  */
@@ -145,4 +145,16 @@ p{
 
 .pricing-column{
     padding: 3% 2%;
+}
+
+
+@media (max-width: 1034px){
+    .title-image{
+        transform: rotate(0deg);
+        position: static;
+    }
+
+    #title{
+        text-align: center;
+    }
 }
