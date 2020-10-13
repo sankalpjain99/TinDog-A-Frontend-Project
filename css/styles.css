@@ -86,4 +86,45 @@ h1{
     padding: 0 19.75%;
 }
 
+/* ----------------------Testimonials---------------  */
 
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+/* Heading  */
+
+.test-head{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 0 10%;
+}
+
+/* Image  */
+
+.test-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 50px;
+}
+
+
+/* ----------------------Press---------------  */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+/* logo image  */
+
+.press-logo{
+    width: 15%;
+    margin: 10px 30px 30px;
+}
