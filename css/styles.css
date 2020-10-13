@@ -18,6 +18,10 @@ h1{
     font-size: 4rem;
 }
 
+.row{
+    margin: 0;
+}
+
 /* --------------------title--------------------  */
 
 /* Navigation Bar */
@@ -63,7 +67,7 @@ h1{
 }
 
 /* Headings  */
-.feature-head{
+h3{
     font-size: 2rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
@@ -80,7 +84,7 @@ h1{
 }
 
 /* info  */
-.feature-info{
+p{
     color: #8f8f8f;
     font-size: 1.2rem;
     padding: 0 19.75%;
@@ -129,4 +133,15 @@ h1{
 .press-logo{
     width: 15%;
     margin: 10px 30px 30px;
+}
+
+/* ----------------------Pricing---------------  */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
 }
