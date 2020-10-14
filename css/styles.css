@@ -189,7 +189,7 @@ p{
         position: static;
     }
 
-    #title{
+    #title, .title-div{
         text-align: center;
     }
 }
